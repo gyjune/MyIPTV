@@ -1,3 +1,4 @@
+央视频道,#genre#
 8K测试 48M4320,http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
